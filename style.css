@@ -5,9 +5,11 @@
     padding: 0;
     font-family: 'Libre Baskerville', serif;
 }
-#ap{
+
+#ap {
     color: rgb(0, 183, 255);
 }
+
 nav {
     display: flex;
     justify-content: space-around;
@@ -439,7 +441,8 @@ h3 {
     box-shadow: 3px 3px 7px 7px rgb(0, 183, 255);
 
 }
-.img-aboutus{
+
+.img-aboutus {
     height: 400px;
     width: 400px;
     border-radius: 40%;
@@ -451,26 +454,35 @@ h3 {
     margin-bottom: 100px;
     margin-left: 50px;
 }
-#a1{
-        margin-top: 70px;
+
+#a1 {
+    margin-top: 70px;
 }
-#ap{
+
+#ap {
     color: rgb(0, 183, 255);
 }
 
 
-#a2{
-       margin-bottom: 100px;
+#a2 {
+    margin-bottom: 100px;
 }
-.p1{
-         word-spacing: 90px;
-         margin-top: 40px;
+
+.p1 {
+    word-spacing: 90px;
+    margin-top: 40px;
 }
-.p2{
+
+.p2 {
     word-spacing: 90px;
     margin-top: 10px;
 }
-.icon{
+
+.icon {
     font-size: xx-large;
     word-spacing: 10px;
+}
+#logo{
+    height: 150px;
+    padding-top: 35px;
 }
